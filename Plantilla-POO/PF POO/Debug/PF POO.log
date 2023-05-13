@@ -1,0 +1,93 @@
+﻿  Main.cpp
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(49,16): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(55,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(57,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(58,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(63,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(65,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(66,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(71,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(73,19): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(74,22): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(170,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\VectorRR.h(180,18): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(46,109): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(48,37): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(49,109): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(52,104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(54,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(55,104): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(203,51): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(204,63): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Geometrias.h(205,51): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Imagenes.h(61,27): warning C4101: 'e': variable local sin referencia
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Imagenes.h(80,28): warning C4101: 'e': variable local sin referencia
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\SkyDome.h(47,7): warning C4101: 'indice': variable local sin referencia
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Terrain.h(73,7): warning C4101: 'indice': variable local sin referencia
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Water.h(63,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Water.h(64,11): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Billboard.h(65,36): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Billboard.h(65,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Billboard.h(65,24): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Billboard.h(68,21): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Billboard.h(69,21): warning C4244: '*=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(33,23): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(46,13): warning C4244: '=': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(47,13): warning C4244: '=': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(52,10): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(55,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(58,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(61,36): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(79,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Camera.h(87,17): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(34,29): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(34,25): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(34,21): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(107,25): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(107,21): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(133,26): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(133,22): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(133,16): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(135,15): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(148,33): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Enemy.h(148,29): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(158,79): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(158,69): warning C4244: 'argumento': conversión de 'int' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(179,1): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(182,1): warning C4305: '=': truncamiento de 'double' a 'float'
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(183,1): warning C4305: '+=': truncamiento de 'double' a 'float'
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(261,21): warning C4244: '=': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(262,21): warning C4244: '=': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(263,19): warning C4244: '=': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(270,33): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(270,29): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(271,33): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(271,29): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(320,19): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(320,16): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(335,34): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(335,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(341,34): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(341,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(349,34): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(349,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(356,34): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(356,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(363,34): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(363,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(428,1): warning C4305: 'argumento': truncamiento de 'double' a 'GLfloat'
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(461,25): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(461,21): warning C4244: 'argumento': conversión de 'GLdouble' a 'float'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(507,30): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(507,23): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(507,16): warning C4244: 'argumento': conversión de 'GLdouble' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(509,15): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(510,19): warning C4244: 'argumento': conversión de 'double' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(518,13): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(527,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(534,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(541,15): warning C4244: 'argumento': conversión de 'int' a 'GLfloat'; posible pérdida de datos
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(570,1): warning C4156: eliminación de expresión de matriz sin utilizar el formato de matriz de 'delete'; formato de matriz sustituido
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Scene.h(570,1): warning C4154: eliminación de una expresión de matriz; suministrada una conversión a puntero
+D:\Plantilla\Plantilla2\Plantilla-POO\PF POO\Main.cpp(135,13): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  PF POO.vcxproj -> D:\Plantilla\Plantilla2\Plantilla-POO\Debug\PF POO.exe
